@@ -6,8 +6,7 @@
 # português-br
 ```
 
-Sistema desenvolvido durante a semana Omnistack 9.0 da RocketSeat. Composição:
-
+Sistema baseado na plataforma AirBnB desenvolvido durante a semana Omnistack 9.0 da RocketSeat. Composição:
 - Plataforma mobile para solicitar agendamento de spots em wokspaces da cidade;
 - Plataforma web para receber requests, em tempo real, para aceitar ou recusar o agendamento.
 
@@ -20,7 +19,7 @@ Você pode ver o funcionamento do app no link: https://www.youtube.com/watch?v=2
 # english
 ```
 
-This apllication was developed by RocketSeat team during the "Omnsistack week 9.0". It's composed by:
+Application based on AirBnB plataform. It was developed by RocketSeat team during the "Omnsistack week 9.0". It's composed by:
 - Mobile plataform to request a time schedule to a workspace;
 - Web plataform to receive requests in real time and accepting or declining the ask.
 
