@@ -12,7 +12,6 @@ const app = express()
 const server = http.Server(app)  //extraindo servidor http de dentro do express
 const io = socketio(server)
 
-
 mongoose.connect('mongodb+srv://omnistack:omnistack@omnistack9-zuwco.mongodb.net/semana09?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
